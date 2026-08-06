@@ -7,9 +7,9 @@
 Building AI-powered applications using Large Language Models, Agentic AI, FastAPI, and scalable backend systems.
 
 <p>
-  <a href="YOUR_LINKEDIN">LinkedIn</a> •
-  <a href="https://github.com/vikasmada0207">GitHub</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://www.linkedin.com/in/vikas-mada/">LinkedIn</a> •
+  <a href="https://github.com/vikas-48">GitHub</a> •
+  <a href="mailto:vikasmada01@gmail.com">Email</a>
 </p>
 
 </div>
@@ -203,21 +203,21 @@ SQL Server • Power BI
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vikasmada0207&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vikas-48&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasmada0207&layout=compact&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=vikasmada0207&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-48&layout=compact&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikasmada0207&theme=github-compact&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=vikas-48&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikas-48&theme=github-compact&hide_border=true"/>
 
 </p>
 
